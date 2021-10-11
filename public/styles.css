@@ -1,0 +1,45 @@
+     
+       html{
+           background-color: yellow;
+       }
+       body{
+           background-color: yellow!important;
+       }
+       
+       
+        .centered{
+            padding-top:200px;
+            text-align: center;
+           
+
+        }
+      
+        .secret-text{
+            text-align: center; 
+            font-size: 2rem; 
+            color: #fff;
+            background-color: #000;
+        }
+    .man1{
+            font-size: 50px;
+            font-family: 'Roboto', sans-serif;
+        
+        }
+    .man2{
+    font-size: 30px;
+    }
+    .man4{
+        margin: 0px 28%;
+    }
+    .man5{
+        margin-left: 300px;
+     
+    }
+    .man10{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+    }
+   .container{
+       padding-left: 250px!important;
+   }
